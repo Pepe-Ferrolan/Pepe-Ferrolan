@@ -6,7 +6,7 @@
 - Hace más de 30 años que use lenguajes como Basic, Logo o Pascal para la enseñar programación a alumnos de entre 14 y 18 años.
 - También me interesó el control de artefactos y, en colaboración con los alumnos, fabricamos robots elementales.
 - Las máquinas que entonces empleé fueron el Vic 20, el Commodore 64 y más tarde clónicos del IBM PC.
-- Aunque mi formación inicial es la licenciatura de Matemáticas, ya jubilado como jubilado me centré en mi afición al MetalWork.
+- Aunque mi formación inicial es la licenciatura de Matemáticas, ya jubilado me centré en mi afición al MetalWork.
 - Para conseguir un memor control de ese trabajo mecánico, me inicié en la programación y el uso de un Arduino para controlar mi fresadora y mi torno.
 - Espero no cometer muchos errores en mis intervenciones y que al menos sirvan para confirmar hipótesis de trabajo de colegas más preparados.
 
