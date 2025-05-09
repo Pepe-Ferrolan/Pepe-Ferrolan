@@ -1,14 +1,8 @@
-- Hola a todos, en este espacio soy @Pepe-Ferrolan
-- Descubrí Github al buscar información para controlar mi cafetera Silvia-Rancilio mediante algún miniordenador.
-- Inicialmente, pretendo colaborar mediante el uso y prueba del proyecto https://github.com/thefipster/rancilio-silvia-pid
-- Me parece un desarrollo que es original, limpio y elegante entre los muchos proyectos de este tipo que existen en github y en otras muchas paginas de la www.
-- Aquí mi capacidad de ayuda es muy limitada porque hace muchos años que no trabajo en programación y mi conocimiento de C y C++, Java o Python es nulo.
-- Hace más de 30 años que use lenguajes como Basic, Logo o Pascal para la enseñar programación a alumnos de entre 14 y 18 años.
-- También me interesó el control de artefactos y, en colaboración con los alumnos, fabricamos robots elementales.
-- Las máquinas que entonces empleé fueron el Vic 20, el Commodore 64 y más tarde clónicos del IBM PC.
-- Aunque mi formación inicial es la licenciatura de Matemáticas, ya jubilado me centré en mi afición al MetalWork.
-- Para conseguir un memor control de ese trabajo mecánico, me inicié en la programación y el uso de un Arduino para controlar mi fresadora y mi torno.
-- Espero no cometer muchos errores en mis intervenciones y que al menos sirvan para confirmar hipótesis de trabajo de colegas más preparados.
+- Hola a todos, en este espacio soy @Pepe-Ferrolan. Pepe es mi nombre y ferrolan hace referencia a mi lugar de nacimiento, El Ferrol, una localidad de Galicia en  el norte de España.
+- Descubrí Github al buscar información para controlar la temperatura de infusión en mi cafetera Silvia V5 de Rancilio.
+- Cuando conocí el proyecto CleverCoffee me resultó muy interesante pero inicialmente lo descarté porque mi conocimiento del alemán es total y pensé que sería una dificultad insalvable. Sin embargo, después del fracaso con dos proyectos en principio más accesibles volví a interesarme en CleverCoffee.
+- Ahora con la ayuda del traductor de Google he logrado implementar la versión completa del proyecto, sobre la versión de la PCB 1.6 de CleverCoffee, en mi Silvia V5.
+- El resultado conseguido me ha animado ahora a dirigir mi atención ahora hacia el Internet de las Cosas y en esto me estoy iniciando.
 
 
 <!--
